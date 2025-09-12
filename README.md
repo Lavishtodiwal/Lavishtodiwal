@@ -20,7 +20,7 @@
 <p align="left">
 - 🌱 I’m currently learning <b>Java Full Stack Development</b><br>
 - 👨‍💻 All of my projects are available at <a href="https://www.lavishtodiwal.me/" target="_blank"><b>lavishtodiwal.me</b></a><br>
-- 📫 Reach me at <b>lavishtodiwal7455@gmail.com</b><br>
+- 📫 Reach me at <b><a href="mailto:lavishtodiwal7455@gmail.com" target="_blank"> </b><br>
 - ⚡ In my free time, I enjoy exploring new tech and building side projects
 </p>
 
