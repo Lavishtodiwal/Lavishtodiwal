@@ -60,7 +60,7 @@
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavishtodiwal&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavishtodiwal&theme=dracula&hide_border=false&border_radius=5" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=lavishtodiwal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavishtodiwal&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
