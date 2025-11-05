@@ -1,30 +1,29 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
-
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lavishtodiwal.lavishtodiwal&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lavishtodiwal.lavishtodiwal" />
 </div>
 
-###
+---
 
 <h2 align="left">Hi 👋! My name is Lavish Todiwal, and I'm a Frontend Developer from India</h2>
 
-<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" /> -->
 
-###
+---
 
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-- 🌱 I’m currently learning <b>Java Full Stack Development</b><br>
-- 👨‍💻 All of my projects are available at <a href="https://www.lavishtodiwal.me/" target="_blank"><b>lavishtodiwal.me</b></a><br>
-- 📫 Reach me at <b><a href="mailto:lavishtodiwal7455@gmail.com" target="_blank"> </b><br>
-- ⚡ In my free time, I enjoy exploring new tech and building side projects
+🌱 I’m currently learning <b>Java Full Stack Development</b><br>
+👨‍💻 All of my projects are available at <a href="https://www.lavishtodiwal.me/" target="_blank"><b>lavishtodiwal.me</b></a><br>
+📫 Reach me at <a href="mailto:lavishtodiwal7455@gmail.com" target="_blank"><b>lavishtodiwal7455@gmail.com</b></a><br>
+⚡ In my free time, I enjoy exploring new tech and building side projects.
 </p>
 
-###
+---
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
@@ -56,22 +55,20 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git logo" />
 </div>
 
-###
+---
 
 <h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavishtodiwal&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /
-
-  <img src="https://github-readme-stats.vercel.app/api?username=lavishtodiwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavishtodiwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lavishtodiwal&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=lavishtodiwal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lavishtodiwal&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lavishtodiwal/Lavishtodiwal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lavishtodiwal/Lavishtodiwal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lavishtodiwal/Lavishtodiwal/output/pacman-contribution-graph.svg">
 </picture>
-
-###
