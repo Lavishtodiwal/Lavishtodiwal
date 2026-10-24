@@ -17,7 +17,6 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-🌱 I’m currently learning <b>Java Full Stack Development</b><br>
 👨‍💻 All of my projects are available at <a href="https://www.lavishtodiwal.tech/" target="_blank"><b>lavishtodiwal.tech</b></a><br>
 📫 Reach me at <a href="mailto:lavishtodiwal7455@gmail.com" target="_blank"><b>lavishtodiwal7455@gmail.com</b></a><br>
 ⚡ In my free time, I enjoy exploring new tech and building side projects.
